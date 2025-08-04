@@ -1,0 +1,31 @@
+gradio 
+groq 
+pydantic 
+pandas 
+python-dotenv
+# Requirements for Code Generation Agent
+# Core dependencies for the application
+
+# Web interface
+gradio
+
+# AI/LLM integration
+groq
+
+# Environment management
+python-dotenv
+
+# Standard library extensions
+pathlib2
+
+# Development dependencies (optional)
+pytest
+black
+flake8
+mypy
+
+# Additional utilities
+requests
+typing-extensions
+
+openai
